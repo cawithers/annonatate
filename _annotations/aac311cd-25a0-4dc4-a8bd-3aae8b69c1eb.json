@@ -1,0 +1,42 @@
+---
+canvas: "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Inexact animals allow viewer to project",
+            "purpose": "commenting",
+            "creator": {
+                "id": "cawithers",
+                "name": "Clare Withers"
+            },
+            "created": "2022-08-04T19:27:15.005Z",
+            "modified": "2022-08-04T19:28:11.087Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Animals",
+            "purpose": "tagging",
+            "creator": {
+                "id": "cawithers",
+                "name": "Clare Withers"
+            },
+            "created": "2022-08-04T19:28:28.464Z",
+            "modified": "2022-08-04T19:28:30.193Z"
+        }
+    ],
+    "target": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/PowersBibleQuilt_1886.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=206.24246215820312,135.2506103515625,85.71856689453125,89.31158447265625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "aac311cd-25a0-4dc4-a8bd-3aae8b69c1eb.json",
+    "motivation": "commenting"
+}
